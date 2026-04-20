@@ -22,7 +22,7 @@ Input Image → YOLOv8 (detect plate) → Crop → PaddleOCR (read text) → Res
 
 1. YOLOv8 detects the license plate bounding box
 2. The plate region is cropped from the original image  
-3. PaddleOCR extracts the Arabic/English text
+3. PaddleOCR extracts the Arabic text
 
 ---
 
@@ -63,3 +63,7 @@ python app/gradio_app.py
 ├── notebooks/           # Original experiments
 └── Dockerfile
 ```
+
+## Contributers 
+1. Zyad Mohamed
+2. Afnan Fathy
