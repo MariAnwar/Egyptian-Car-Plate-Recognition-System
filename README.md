@@ -3,7 +3,7 @@
 > Detects and extracts text from Egyptian license plates using 
 > YOLOv8 + PaddleOCR, deployed as a live web app.
 
-🔗 **Live Demo:** [Try it on Hugging Face](https://huggingface.co/spaces/Maria253/Egyptian_car_plate_detection_OCR_system)
+🔗 **Live Demo:** [Try it on Hugging Face](https://huggingface.co/spaces/Maria253/Egyptian-car-plate-detection-OCR)
 
 ---
 
